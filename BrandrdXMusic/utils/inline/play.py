@@ -68,7 +68,7 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Xeno_Kakarot"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/ll_X_ray"
             ),
             InlineKeyboardButton(
                 text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/lolpagalokigc"
@@ -90,7 +90,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Xeno_Kakarot"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/ll_X_ray"
             ),
             InlineKeyboardButton(
                 text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/lolpagalokigc"
@@ -247,7 +247,7 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/Xeno_Kakarot"
+                text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/ll_X_ray"
             ),
             InlineKeyboardButton(
                 text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/lolpagalokigc"
